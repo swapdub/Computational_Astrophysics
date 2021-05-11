@@ -7,4 +7,6 @@ Projects in this course include implementing algorithms like:
 - Lagrangian and Cubic Natural Spline interpolation functions
 - N-body simulation using Leap frog algorithm
 - Machine Learning using Keras from tensorflow
+
+
 Using these we attempt to study and simulate phenomenon relating to astrophysical concepts.
